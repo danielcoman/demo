@@ -1,0 +1,1153 @@
+@charset "utf-8";
+/* CSS Document */
+
+#htcU11{
+	background:#f6f6f6;
+	overflow:hidden;
+	padding-top:20px;
+	
+}
+
+#htcU11 .btn{
+	display:block;
+	width:160px;
+	
+	
+}
+
+#logoHtcU11{
+	
+	
+}
+
+#tech-a-break {
+	background:url(../imagini/headers/tech-a-break-header.jpg) #f6f6f6 no-repeat scroll 60% 10% / cover;  									
+}
+
+#tech-a-break .btext {
+	padding-top: 60px;
+	font-size: 1.1em;
+}
+
+#oferta-1iunie {	
+	background:url(../oferte-speciale/imagini/oferta-1-iunie-homepage.png) #f6f6f6 no-repeat scroll 55% 62% / cover;  									
+}
+
+#oferta-retea{
+	background:url(../tehnologii/4G/imagini/header-tin-pasul.jpg) #fff no-repeat scroll 55% 62% / cover;  							
+}
+
+#orange-days{
+	background:url(../imagini/campanii/orange-days/header.png) #fff no-repeat scroll 55% 62% / cover;  
+	background-color:#555;
+							
+}
+
+#iphone-days{
+	background:url(../imagini/campanii/iphone-days/header.png) #fff no-repeat scroll 55% 62% / cover;  
+	background-color:#000;
+							
+}
+#oferta-neversea {
+	background:url(../evenimente/neversea/images/banner.jpg);
+	background-color: #2c66a5;
+	background-size: cover;
+	background-position: center;
+}
+#oferta-neversea .container {
+	position: relative;
+}
+.neversea-logo {
+	width: 82%;
+	margin-left: auto;
+}
+.neversea-logo h5 {
+	margin-left: -15px;
+	text-transform: uppercase;
+}
+.neversea-online {
+	position: absolute;
+	bottom: 30px;
+	right: 0;
+}
+.neversea-online img {
+	margin-left: auto;
+}
+#oferta-neversea .row {
+	margin-bottom: 30px;
+}
+#oferta-neversea .cover-md,
+#oferta-transformers .cover-md {
+	min-height: 340px !important;
+}
+#oferta-transformers {
+	background:url(../aplicatii/aplicatii-android/imagini/banner-transformes.jpg);
+	background-color: #000;
+	background-size: cover;
+	background-position: 100%;
+	color: #fff;
+}
+#oferta-transformers .container {
+	display: table;
+	height: 100%;
+}
+#oferta-transformers .row {
+	display: table-cell;
+	vertical-align: middle;
+}
+.xs-visible {
+	display: none;
+}
+.top-align {
+	padding-top:38px;
+}
+
+#prepayEaster2017{
+	
+	
+	background:url(../prepay/imagini/easter2017-2.jpg) #fff no-repeat scroll 100% 62% / contain;  
+	background-color:#fff;
+	border:1px solid #cacaca;							
+}
+@media all and (max-width: 1200px) {
+	#oferta-neversea .row {
+		margin-bottom: 20px !important;
+	}
+	.neversea-logo {
+		width: 73%;
+	}
+	.neversea-logo h5 {
+		margin-left: -44px;
+	}
+	#oferta-neversea .cover-md,
+	#oferta-transformers .cover-md {
+		min-height: 320px !important;
+	}
+	#oferta-transformers {
+		background-position: 80% 40%;
+	}
+	#oferta-transformers h2 {
+		font-size: 28px;
+	}
+}
+@media all and (max-width: 990px) {
+	.neversea-logo {
+		width: 79%;
+	}
+	.neversea-logo h5 {
+		width: 100%;
+		margin-left: -26px;
+	}
+	#oferta-neversea br:first-child {
+		display: none;
+	}
+	#oferta-neversea .cover-md,
+	#oferta-transformers .cover-md {
+		min-height: 300px !important;
+	}
+	#oferta-transformers h1 {
+		font-size: 30px;
+	}
+	#oferta-transformers h3 {
+		font-size: 21px;
+	}
+	#oferta-transformers h2 {
+		font-size: 20px;
+	}
+}
+@media (max-width: 768px) {
+	#oferta-neversea .cover-md,
+	#oferta-transformers .cover-md {
+		min-height: 280px !important;
+	}
+	#iphone-days{
+		background:url(../imagini/campanii/iphone-days/header.png) #fff no-repeat scroll 64% 62% / cover;  
+		background-color:#000;							
+	}
+
+	#prepayEaster2017{
+		background:none;
+	}	
+	#oferta-transformers h1 {
+		font-size: 22px;
+	}
+	#oferta-transformers h3 {
+		font-size: 18px;
+	}
+	#oferta-transformers .col-xs-6 {
+		padding-left: 20px;
+	}
+	#oferta-transformers {
+		background: #000;
+		/*min-height: auto;*/
+	}
+	#oferta-transformers .container,
+	#oferta-transformers .row {
+		display: block;
+	}
+}
+
+
+
+@media (min-width: 769px) and (max-width:992px){
+	.top-align {
+		padding-top:12px;
+	}
+	
+	#prepayEaster2017{
+		background:url(../imagini/homepage/easter-pp-2017-sm.jpg) #fff no-repeat scroll 100% 50% / contain;
+		
+	}
+	
+	
+}
+
+
+
+#oferta-paste17 {
+	background: url('../imagini/homepage/header-of-paste.jpg') no-repeat scroll 54% 50% / cover;
+}
+
+
+
+#harta-acoperire {
+	background:#000;
+}
+
+
+
+
+#banner-orange-money{
+	background:url('../imagini/homepage/header-om.jpg') no-repeat scroll 70% 50% / cover;  
+										
+}
+
+
+
+
+@media (min-width: 1200px){
+	
+#harta-acoperire {
+	background:url(../acoperire/imagini/orange-600x300-hp-d.jpg) no-repeat scroll 96% 50% / cover;
+}
+
+	.subHLAcoperire{
+	margin-left:-20px;
+	
+}
+}
+@media all and (max-width: 680px) {
+	#oferta-neversea {
+		text-align: center;
+	}
+	.neversea-logo {
+		width: 100%;
+	}
+	.neversea-logo img {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.neversea-logo h5 {
+		margin-left: 0;
+	}
+	#oferta-neversea {
+		background-position: 60% 40%;
+	}
+	#oferta-transformers {
+		background: #000;
+	}
+	.xs-visible {
+		display: block;
+	}
+}
+@media all and (max-width: 540px) {
+	#oferta-neversea h1 {
+		font-size: 35px;
+	}
+	#oferta-neversea h3 {
+		font-size: 21px !important;
+	}
+	#oferta-neversea h5 {
+		font-size: 17.5px;
+	}
+}
+
+@media (max-width: 480px){
+	#orange-days{
+		background:url(../imagini/campanii/orange-days/header.png) #fff no-repeat scroll 62% 62% / cover;  
+		background-color:#555;
+								
+	}	
+
+	#harta-acoperire {
+		height: 300px;
+		overflow: hidden;
+		background:#000;
+	}
+	.xs-hide {
+		display: none;
+	}
+	#oferta-neversea {
+		text-align: center;
+	}
+	#oferta-neversea img {
+		width: 70% !important;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.neversea-logo h5 {
+		padding-left: 0;
+	}
+	#oferta-neversea {
+		background-position: 65% 40%;
+	}
+	#oferta-transformers .col-xs-6 {
+		width: 100%;
+		padding-right: 20px;
+	}
+	#oferta-transformers .visible-xs {
+		display: none !important;
+	}
+	#oferta-transformers {
+		min-height: 200px;
+		padding-bottom: 20px;
+	}
+	#oferta-transformers .cover-md {
+		min-height: auto !important
+	}
+	
+}
+@media all and (max-width: 320px) {
+	#oferta-neversea {
+		background-position: 68% 40%;
+	}
+}
+
+
+
+
+
+#orohomequest{
+	background:url('../imagini/homepage/home-quest.jpg') no-repeat  scroll center top / cover;
+	
+}
+
+
+#lenovo-moto {
+    background: #000 url("imagini/homepage/bn-lenovo-moto.jpg") no-repeat scroll 92% 62% / cover ;
+}
+
+
+#topUpgrade {
+    background:url('../imagini/homepage/top-upgrade.jpg') no-repeat scroll 92% 62% / cover ;
+}
+
+
+
+@media (min-width: 300px) and (max-width: 479px) {
+
+#banner-orange-money{
+	background:url('../imagini/homepage/header-om.jpg') no-repeat scroll 57% 50% / cover;  							
+}
+#black-friday-2016{
+	background:url('../imagini/homepage/black-friday-launch.jpg') no-repeat scroll 70% 50% / cover;  										
+}
+#oferta-craciun2016{
+	background:url('../imagini/homepage/oferta-craciun2016.jpg') no-repeat scroll 83% 50% / cover;  										
+}
+}
+@media (min-width: 480px) and (max-width: 767px) {
+
+	#banner-orange-money{
+	background:url('../imagini/homepage/header-om.jpg') no-repeat scroll 62% 50% / cover;  							
+}
+#black-friday-2016{
+	background:url('../imagini/homepage/black-friday-launch.jpg') no-repeat scroll 70% 50% / cover;  										
+}
+#oferta-craciun2016{
+	background:url('../imagini/homepage/oferta-craciun2016.jpg') no-repeat scroll 86% 50% / cover;  										
+}
+}
+
+
+@media(max-width:768px){
+	
+#ppVday{
+	
+	
+	background:none;							
+}
+
+	
+	
+	#topUpgrade {
+		background-image:none;
+		
+	}
+}
+
+@media (min-width : 768px) and (max-width: 1199px) {
+	#harta-acoperire {
+	background:url(../acoperire/imagini/orange-600x300-hp-d.jpg) no-repeat scroll 61% 50% / cover;
+}
+						
+	#banner-orange-money{
+	background:url('../imagini/homepage/header-om.jpg') no-repeat scroll 31% 50% / cover;  							
+} 
+#black-friday-2016{
+	background:url('../imagini/homepage/black-friday-launch.jpg') no-repeat scroll 70% 50% / cover;  										
+}
+#oferta-craciun2016{
+	background:url('../imagini/homepage/oferta-craciun2016.jpg') no-repeat scroll 83% 50% / cover;  										
+}
+}
+
+@media (min-width : 991px) and (max-width: 1199px) {
+
+#black-friday-2016{
+	background:url('../imagini/homepage/black-friday-launch.jpg') no-repeat scroll 70% 50% / cover;  										
+}
+#oferta-craciun2016{
+	background:url('../imagini/homepage/oferta-craciun2016.jpg') no-repeat scroll 70% 50% / cover;  										
+}
+
+
+#harta-acoperire {
+	background:url(../acoperire/imagini/orange-600x300-hp-d.jpg) no-repeat scroll 96% 50% / cover;
+}
+}
+@media only screen and (min-width : 1200px) {
+	#black-friday-2016{
+	background:url('../imagini/homepage/black-friday-launch.jpg') no-repeat scroll 70% 50% / cover;  										
+}
+#oferta-craciun2016{
+	background:url('../imagini/homepage/oferta-craciun2016.jpg') no-repeat scroll 96% 50% / cover;  										
+}
+}
+
+@media (min-width : 1200px) and (max-width: 1400px) {
+	#harta-acoperire {
+	background:url(../acoperire/imagini/orange-600x300-hp-d.jpg) no-repeat scroll 61% 50% / cover;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* cut/paste de pe homepage     */
+
+
+.caseta-telefon {
+	position: relative;
+}
+.bulinaReducere {
+	position: absolute;
+	right: 10%;
+	top: 0;
+}
+a.link-orange, a.link-orange:visited {
+	color: #FF7900;
+	text-decoration: none;
+}
+a.link-orange:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+/*
+.telefoane_recomandate .caseta-telefon .baterieCadou{
+	position:absolute;
+	top:50px;
+	left:0;
+}
+
+.telefoane_recomandate .caseta-telefon .badge_4g{
+	top:0;
+}
+
+@media (max-width: 479px) {
+	.telefoane_recomandate .caseta-telefon .badge_4g{
+		top:-10px;
+		width:30%;
+	}
+}
+*/
+#dragobitii {
+	background: #000000 url("../imagini/homepage/banner-dragobiti.jpg") no-repeat scroll 47% 50% / cover;
+}
+#appleWatch {
+	background: #000000 url("https://www.orange.ro/apple-watch/banners/apple-watch-2-hp.jpg") no-repeat scroll 47% 50% / cover;
+}
+#idei-cadouri {
+	background: #000000 url("../oferte-speciale/imagini/header-idei-cadou.jpg") no-repeat scroll 44% 1% / cover;
+}
+#oferta-sep2016 {
+	background: #000000 url("../oferta-septembrie/imagini/header.jpg") no-repeat scroll 75% 50% / cover;
+}
+
+
+
+#huawey-align {
+	margin-top: 80px;
+}
+#huawey-imagine {
+	margin-top: 15px;
+}
+.mh100 {
+	min-height: 109px;
+}
+.text-only-popout {
+	padding-top: 2.5em;
+}
+.text-only-popout ul li h5 {
+	margin: 0px;
+}
+
+#iphone7red {
+	background: #fafafa url("../iphone/imagini/iphone7-red-orange-ro.png") no-repeat  top center;
+}
+#iphone7red .cliph { padding-top:140px;}
+
+
+ @media (max-width: 992px) {
+#huawey-align {
+	margin-top: 30px;
+}
+}
+ @media (max-width: 768px) {
+#huawey-align {
+	margin-top: 25px;
+}
+.google-play-img {
+	padding: 1em;
+}
+}
+}
+@media (max-width: 544px) {
+	
+
+
+	}
+	
+	#harta-acoperire H1 { font-size: 20px!important;}
+#huawey-align {
+	margin-top: 10px;
+}
+}
+#banner-orange-open {
+	background: #fff url("../imagini/homepage/splash_banner_open.jpg") no-repeat scroll 50% 50% / cover;
+}
+#racheta {
+	background: #000 url("../imagini/homepage/splash_racheta.jpg") no-repeat scroll 50% 50% / cover;
+}
+#iphone-align {
+	margin-top: 100px;
+}
+.pad-30 {
+	padding-top: 30px;
+}
+ @media (max-width: 992px) {
+#iphone-align {
+	margin-top: 120px;
+}
+}
+ @media (max-width: 768px) {
+#iphone-align {
+	margin-top: 50px;
+}
+#iphone-image {
+	padding-bottom: 90px;
+	margin-top: 30px;
+}
+#banner-orange-open {
+	background: #fff url("../imagini/homepage/splash_banner_open.jpg") no-repeat scroll 76% 50% / cover;
+}
+}
+ @media (max-width: 544px) {
+	 
+
+#iphone7red {
+	background: #fafafa url("../iphone/imagini/iphone7-red-orange-rom.png") no-repeat top center ;
+	background-size: 100% 100%;
+
+}
+
+#iphone7red .cliph  img { width:auto; height:20px;}
+
+#iphone7red .cliph { padding-top:160px!important;}
+
+#iphone-align {
+	margin-top: 50px;
+}
+#iphone-image {
+	margin-top: 50px;
+}
+}
+.fullRowXs {
+	padding: 0px 15px;
+}
+.fullRowXs h2.hl {
+	margin-top: 0px;
+}
+.height-hp h5 {
+	height: 18px;
+	overflow: hidden;
+}
+ @media (max-width : 768px) {
+.noMBottomXs {
+	margin-bottom: 0px !important;
+}
+.item {
+	min-height: 280px;
+}
+.frame-background h3 {
+	font-size: 14px;
+}
+}
+ @media (max-width : 1470px) {
+#specOffer {
+	background-size: 50%;
+}
+}
+ @media (min-width : 768px) and (max-width: 992px) {
+.frame-background h3 {
+	font-size: 18px;
+}
+#ppCaruselHp .ppPopoutTxt {
+	margin-top: 0px;
+	font-size: 16px;
+}
+}
+ @media (min-width : 769px) {
+.item {
+	min-height: 310px;
+}
+.google-play {
+	padding: 1em;
+}
+#banner-vacanta-frame {
+	padding-top: 35px;
+}
+}
+.headline3 {
+	font-size: 1.2em;
+	margin: 10px 0 0 0;
+	padding: 6px;
+}
+.pad-head {
+	padding-top: 130px;
+}
+.spatiere-logo {
+	padding-bottom: 0px;
+	clear: both;
+}
+.headline3 {
+	font-size: 1.2em;
+	margin: 10px 0 0 0;
+	padding: 6px;
+}
+.pad-head {
+	padding-top: 130px;
+}
+.spatiere-logo {
+	padding-bottom: 0px;
+	clear: both;
+}
+.padd-xmas {
+	padding-top: 30px;
+}
+.marg {
+	text-align: center;
+}
+.marg-top {
+	margin-top: 20px;
+}
+ @media (min-width: 300px) and (max-width: 479px) {
+.show{display:block;}
+.alghdl {
+	padding: 0 15px;
+}
+.img-xs {
+	height: 100px;
+}
+.img-xmas {
+	height: auto;
+}
+.img-xs {
+	height: 100px;
+}
+.img-xmas {
+	height: 200px;
+}
+.marg-top-more {
+	margin-top: 20px;
+}
+#racheta {
+	background: #000 url("../imagini/homepage/splash_racheta.jpg") no-repeat scroll 61% 50% / cover;
+}
+#oferta-paste17 {
+	background: url('../imagini/homepage/header-of-paste.jpg') no-repeat scroll 65% 50% / cover;
+}
+#oferta-paste-tv {
+	background: url('../imagini/homepage/header-easter-tv.jpg') no-repeat scroll 54% 50% / cover;
+}
+}
+ @media (max-width: 479px) {
+.pad-head {
+	padding-top: 20px;
+}
+.spatiere-logo {
+	padding-bottom: 10px;
+	clear: both;
+}
+}
+ @media (min-width: 480px) and (max-width: 767px) {
+#racheta {
+	background: #000 url("../imagini/homepage/splash_racheta.jpg") no-repeat scroll 53% 50% / cover;
+}
+.pad-head {
+	padding-top: 30px;
+}
+.spatiere-logo {
+	padding-bottom: 30px;
+	clear: both;
+}
+.img-xmas {
+	height: 230px;
+}
+}
+.aliniere-stanga {
+	padding-left: 25px;
+}
+
+/* Small Devices, Tablets */
+@media (min-width: 768px) and (max-width: 991px) {
+.sub-head-fibra{padding-top: 20px;}
+.pad-head {
+	padding-top: 40px;
+}
+.spatiere-logo {
+	padding-bottom: 0px;
+	clear: both;
+}
+.popoutTv1-two {
+	height: 100px;
+}
+.hl {
+	font-size: 20px;
+	padding-top: 0.3em;
+}
+#racheta {
+	background: #000 url("../imagini/homepage/splash_racheta.jpg") no-repeat scroll 35% 65% / cover;
+}
+}
+
+/* Medium Devices, Desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+#racheta {
+	background: #000 url("../imagini/homepage/splash_racheta.jpg") no-repeat scroll 15% 85% / cover;
+}
+.pad-head {
+	padding-top: 40px;
+}
+.text-only-popout {
+	padding-top: 1.5em;
+}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+.pad-head {
+	padding-top: 40px;
+}
+.marg {
+	margin-top: 60px;
+}
+.hl {
+	margin-top: 1em;
+}
+.ul-dragobiti {padding-top:0.5em;}
+}
+ @media (max-width: 992px) {
+#banner-vacanta-frame {
+	padding-left: 10px;
+	padding-top: 35px;
+}
+}
+ @media (max-width: 544px) {
+.baterieCadou {
+	width: 60%;
+}
+.bulinaReducere {
+	width: 40%;
+}
+#dragobitii {
+	background: #000000 url("../imagini/homepage/banner-dragobiti-xs.jpg") no-repeat scroll 84% 50% / cover;
+}
+#appleWatch {
+	background: #f2f2f2 url("https://www.orange.ro/apple-watch/banners/apple-watch-2-hp-xs.jpg") no-repeat scroll 55% 50% / cover;
+	height:300px;
+}
+#appleWatch .btn-onlight {
+	margin-top: 150px;
+}
+
+}
+
+/*  Extra small devices (portrait phones, less than 544px) */
+@media (max-width: 543px) {
+#open-ftvm {
+	background: url('../imagini/homepage/header-orange-open.jpg') no-repeat scroll 77% 25% / cover;
+}
+#moto-z {
+	background-color: #F2F2F2;
+	background-image: none;
+}
+#open-ftv {
+	background: url('../imagini/homepage/header-fibra-tv.jpg') no-repeat scroll 82% 25% / cover;
+}
+#dragobitii {
+	background: #000000 url("../imagini/homepage/banner-dragobiti-xs.jpg") no-repeat scroll 81% 50% / cover;
+}
+#appleWatch {
+	background: #000000 url("https://www.orange.ro/apple-watch/banners/apple-watch-2-hp-xs.jpg") no-repeat scroll 55% 50% / cover;
+}
+#htc-oferta-martie {
+	background: url('../imagini/homepage/htc-oferta-martie-xs1.jpg') no-repeat scroll 65% 50% / cover;
+}
+#oferta-paste17 {
+	background: url('../imagini/homepage/header-of-paste.jpg') no-repeat scroll 61% 50% / cover;
+}
+
+
+}
+
+/*  Small devices (landscape phones, 544px and up)*/
+@media (min-width: 544px) and (max-width: 767px) {
+#open-ftvm {
+	background: url('../imagini/homepage/header-orange-open.jpg') no-repeat scroll 78% 50% / cover;
+}
+#moto-z {
+	background-color: #F2F2F2;
+	background-image: none;
+}
+#open-ftv {
+	background: url('../imagini/homepage/header-fibra-tv.jpg') no-repeat scroll 79% 50% / cover;
+}
+#dragobitii {
+	background: #000000 url("../imagini/homepage/banner-dragobiti-xs.jpg") no-repeat scroll 81% 50% / cover;
+}
+#appleWatch {
+	background: #000000 url("https://www.orange.ro/apple-watch/banners/apple-watch-2-hp.jpg") no-repeat scroll 55% 50% / cover;
+}
+#appleWatch .btn-onlight {
+	margin-top: 120px;
+}
+#htc-oferta-martie {
+	background: url('../imagini/homepage/htc-oferta-martie-xs1.jpg') no-repeat scroll 65% 50% / cover;
+	min-height:380px;
+}
+#oferta-paste17 {
+	background: url('../imagini/homepage/header-of-paste.jpg') no-repeat scroll 62% 50% / cover;
+}
+#oferta-paste-tv {
+	background: url('../imagini/homepage/header-easter-tv.jpg') no-repeat scroll 60% 50% / cover;
+}
+}
+
+/*  Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+#open-ftvm {
+	background: url('../imagini/homepage/header-orange-open.jpg') no-repeat scroll 70% 30% / cover;
+}
+#moto-z {
+	background: url('../imagini/homepage/splash_moto_z2.jpg') no-repeat scroll 70% 30% / cover;
+}
+#open-ftv {
+	background: url('../imagini/homepage/header-fibra-tv.jpg') no-repeat scroll 82% 30% / cover;
+}
+.ul-dragobiti {padding-top:0.5em;}
+#dragobitii {
+	background: #000000 url("../imagini/homepage/banner-dragobiti-sm.jpg") no-repeat scroll 55% 50% / cover;
+}
+#appleWatch {
+	background: #000000 url("https://www.orange.ro/apple-watch/banners/apple-watch-2-hp.jpg") no-repeat scroll 60% 50% / cover;
+}
+#appleWatch .btn-onlight {
+	margin-top: 150px;
+}
+#htc-oferta-martie {
+	background: url('../imagini/homepage/htc-oferta-martie1.jpg') no-repeat scroll 65% 50% / cover;
+}
+#oferta-paste17 {
+	background: url('../imagini/homepage/header-of-paste.jpg') no-repeat scroll 52% 50% / cover;
+}
+#oferta-paste-tv {
+	background: url('../imagini/homepage/header-easter-tv.jpg') no-repeat scroll 54% 50% / cover;
+}
+}
+
+/*  Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+.sub-head-fibra{padding-top: 40px;}
+#open-ftvm {
+	background: url('../imagini/homepage/header-orange-open.jpg') no-repeat scroll 70% 40% / cover;
+}
+#moto-z {
+	background: url('../imagini/homepage/splash_moto_z2.jpg') no-repeat scroll 60% 40% / cover;
+}
+#open-ftv {
+	background: url('../imagini/homepage/header-fibra-tv.jpg') no-repeat scroll 84% 40% / cover;
+}
+
+#appleWatch {
+	background: #000000 url("https://www.orange.ro/apple-watch/banners/apple-watch-2-hp.jpg") no-repeat scroll 60% 50% / cover;
+}
+#appleWatch .btn-onlight {
+	margin-top: 150px;
+}
+#htc-oferta-martie {
+	background: url('../imagini/homepage/htc-oferta-martie1.jpg') no-repeat scroll 65% 50% / cover;
+}
+#oferta-paste17 {
+	background: url('../imagini/homepage/header-of-paste.jpg') no-repeat scroll 53% 50% / cover;
+}
+#oferta-paste-tv {
+	background: url('../imagini/homepage/header-easter-tv.jpg') no-repeat scroll 54% 50% / cover;
+}
+.ul-dragobiti {padding-top:0.5em;}
+}
+
+/*  Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+#open-ftvm {
+	background: url('../imagini/homepage/header-orange-open.jpg') no-repeat scroll 85% 50% / cover;
+}
+#moto-z {
+	background: url('../imagini/homepage/splash_moto_z2.jpg') no-repeat scroll 85% 50% / cover;
+}
+#open-ftv {
+	background: url('../imagini/homepage/header-fibra-tv.jpg') no-repeat scroll 85% 50% / cover;
+}
+#appleWatch .btn-onlight {
+	margin-top: 150px;
+}
+#htc-oferta-martie {
+	background: url('../imagini/homepage/htc-oferta-martie1.jpg') no-repeat scroll 65% 50% / cover;
+}
+
+#oferta-paste-tv {
+	background: url('../imagini/homepage/header-easter-tv.jpg') no-repeat scroll 54% 50% / cover;
+}
+.sub-head{padding-top:30px;}
+.sub-head-fibra{padding-top: 50px; padding-left: 40px;}
+}
+.no-style{margin:0;padding:0}
+.popout-of{margin-left:0px;width:170px!important;}
+.padd-top-20{padding-top:20px;}
+.padd-top-15{padding-top:15px;}
+
+
+
+
+
+
+
+
+
+
+#lg-g6 {
+	background: #000000 url("../lg-g6/banners/bg.jpg") no-repeat scroll 50% 50% / cover;
+	min-height: 340px;
+}
+#lg-g6 .g6 {
+	position: absolute;
+	left: 0;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+#lg-g6 .g6 img {
+	max-width: 230px;
+}
+#lg-g6 .k8 {
+	position: absolute;
+	left: 0;
+    margin-top: 80px;
+    margin-right: 10px;
+    margin-left: 300px;
+
+}
+#lg-g6 .lg {
+	position: absolute;
+    right: 0;
+    bottom: -330px;
+}
+#lg-g6 .lg-g6 {
+	position: absolute;
+	right: 0;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#lg-g6 .copy-lg {
+	font-weight: bold;
+    font-size: 28px;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    margin-top: 75px;
+}
+
+/*  Extra small devices (portrait phones, less than 544px) */
+ @media (max-width: 479px) {
+	#oferta-1iunie {	
+		background:url(../oferte-speciale/imagini/oferta-1-iunie-homepage.png) #f6f6f6 no-repeat scroll 45% 62% / cover;  									
+	} 	
+ 	#lg-g6 .g6 {
+ 		margin-top: 80px;
+ 	}
+ 	#lg-g6 .g6 img {
+		max-width: 150px;
+		margin-left: 10px;
+	}
+	#lg-g6 .k8 {
+		margin-left: 180px;
+	}
+	#lg-g6 .k8 img {
+		max-width: 100px;
+		margin-top: 100px;
+    	margin-right: 10px;
+	}
+	#lg-g6 .copy-xs {
+		font-weight: bold;
+	    font-size: 16px;
+	    color: #fff;
+	    position: absolute;
+	    right: 30px;
+	    margin-top: 65px;
+	}
+	#lg-g6 .lg {
+		position: absolute;
+	    right: 0;
+	    bottom: -320px;
+	    max-width: 75px;
+	    margin-right: 40px;
+	}
+	#lg-g6 .lg img {
+		max-width:  100px;
+		right:0;
+	}
+	#lg-g6 .lg-g6 {
+		position: absolute;
+		right: 0;
+	    margin-top: 10px;
+	    margin-right: 30px; 
+	}
+	#lg-g6 .lg-g6 img {
+		max-width: 100px;
+	}
+}
+
+/*  Small devices (landscape phones, 544px and up)*/
+ @media (min-width: 480px) and (max-width: 767px) {
+	#oferta-1iunie {	
+		background:url(../oferte-speciale/imagini/oferta-1-iunie-homepage.png) #f6f6f6 no-repeat scroll 45% 62% / cover;  									
+	}  	
+ 	#lg-g6 .g6 {
+ 		margin-top: 15px;
+ 	}
+ 	#lg-g6 .g6 img {
+		max-width: 200px;
+		margin-left: 30px;
+	}
+	#lg-g6 .k8 {
+		margin-left: 250px;
+	}
+	#lg-g6 .k8 img {
+		max-width: 130px;
+		margin-top: 85px;
+    	margin-right: 10px;
+	}
+	#lg-g6 .copy-xs {
+		font-weight: bold;
+	    font-size: 20px;
+	    color: #fff;
+	    position: absolute;
+	    right: 30px;
+	    margin-top: 65px;
+	}
+	#lg-g6 .lg {
+		position: absolute;
+	    right: 0;
+	    bottom: -320px;
+	    max-width: 75px;
+	    margin-right: 40px;
+	}
+	#lg-g6 .lg img {
+		max-width:  100px;
+		right:0;
+	}
+	#lg-g6 .lg-g6 {
+		position: absolute;
+		right: 0;
+	    margin-top: 10px;
+	    margin-right: 30px; 
+	}
+	#lg-g6 .lg-g6 img {
+		max-width: 100px;
+	}
+}
+
+/*  Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+	#lg-g6 .g6 img {
+		max-width: 230px;
+	}
+	#lg-g6 .k8 img {
+		max-width: 150px;
+		margin-top: 70px;
+    	margin-right: 10px;
+	}
+	#lg-g6 .copy-lg {
+		font-weight: bold;
+	    font-size: 20px;
+	    color: #fff;
+	    position: absolute;
+	    right: 0;
+	    margin-top: 80px;
+	}
+	#tech-a-break .btext {
+		padding-top: 30px;
+		font-size: 1em;
+	}	
+}
+
+/*  Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+	#lg-g6 .copy-lg {
+		font-weight: bold;
+	    font-size: 26px;
+	    color: #fff;
+	    position: absolute;
+	    right: 0;
+	    margin-top: 75px;
+	}
+	#tech-a-break .btext {
+		padding-top: 50px;
+		font-size: 1em;
+	}		
+}
+
+/*  Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}

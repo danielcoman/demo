@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ************************multimedia css ******************************************* */
+
+.multimedia1Mobile .caseta-serv .descriere {
+	min-height: 0px;
+}
+.multimedia1Mobile h4 {
+	margin-top: 0px;
+	display: block;
+}
+.newsContent {
+	margin-bottom: 5px;
+}
+.newsContent a {
+	color: #CCC;
+}
+#multimediaContainer .caseta-serv .descriere {
+	min-height: 0;
+}
+.cstNewsMultimedia .newsTitle {
+	margin-top: 10px;
+}
+#multimediaContainer .cstNewsMultimedia a.imgContainer {
+	display: block;
+	height: 180px;
+	overflow: hidden;
+	position: relative;
+}
+#multimediaContainer .cstNewsMultimedia img {
+	bottom: -10000%;
+	left: -10000%;
+	margin: auto;
+	max-height: none !important;
+	min-height: 1000%;
+	min-width: 1000%;
+	position: absolute;
+	right: -10000%;
+	top: -10000%;
+	transform: scale(0.1);
+}
+.img-cover-film {
+}
+#multimediaContainer .cstNewsMultimedia h3 {
+	min-height: 0;
+}
+#promoMultimedia .descriere {
+
+	background-size: 35%;
+	overflow: hidden; 
+	background-size: 35%;
+}
+
+.benefitsPromoMultimedia {
+	margin: 10px 0px;
+}
+.mb0 {
+	margin-bottom: 0px !important;
+}
+.pad0 {
+	padding: 0 !important;
+}
+.caseta-serv .jocuriCst, .caseta-serv .tonuriCst {
+	padding: 10px 0px 10px 0px;
+}
+ @media (max-width : 768px) {
+.multimedia1Mobile h4 {
+	font-size: 14px;
+}
+}
+ @media (max-width : 600px) {
+#multimediaNews .caseta-serv {
+	width: 100%;
+}
+}
+ @media (max-width : 450px) {
+.multimedia1Mobile .col-xs-6 .btn {
+	display: none;
+}
+.multimedia1Mobile .col-xs-6 h3 a {
+	font-size: 12px;
+}
+.benefitsPromoMultimedia {
+	width: 100%;
+}
+#promoMultimedia h2 {
+	font-size: 16px;
+}
+
+.multimediaIconsMobile h5 {
+	font-size: 12px;
+}
+.multimedia1Mobile h4 {
+	font-size: 11px;
+}
+.caseta-serv .descriere {
+	padding: 10px;
+}
+}

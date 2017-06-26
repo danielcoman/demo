@@ -1,0 +1,132 @@
+
+.cover-full-m {background: rgba(0, 0, 0, 0) url("imagini/header-oferta.jpg") no-repeat scroll 75% 50% / cover    ;}
+
+.cleared-30{margin-bottom: 30px;clear: both;}
+.cleared-20{margin-bottom: 20px;clear: both;}
+.cleared-10{margin-bottom: 10px;clear: both;}
+.padd20{padding-top:20px;}
+.marg-bt{margin-bottom:0px;}
+.phone-img{max-height:240px;display: inline;}
+.marg-top{margin-top:0;}
+.black{color:#000!important;}
+.orange{color:#ff7900;font-size:20px;}
+.euro {font-size:15px;color:#ff7900;}
+.fullprice {color: #000;text-decoration: line-through; display: inline;font-size:15px;}
+.padd{padding:20px!important;}
+.bg-albastru{padding:1px;}
+.bg-albastru h5{color:#fff;margin-top: 12px!important;}
+.acc-img{max-height:195px;display: inline;}
+.index{z-index: 1;position: absolute;}
+.nav-tabs{background-color: #fff;}
+ body {
+      position: relative; 
+  }
+  .affix {
+      top:0;
+      width:60%;
+      z-index: 9999 !important;
+  }
+  .navbar {
+      margin-bottom: 0px;
+  }
+
+@media (max-width: 479px) {
+	/* .full_width_sml {width: 100% !important;} */
+	.full_width_sml img { margin-top: 20px; }
+	.full_width_sml .txt-large-bold { margin-top: 5px; }
+	.deCeOnline span {min-height: auto !important;}
+}
+@media (min-width : 320px) and (max-width: 359px) {
+.cover-full-m {background: rgba(0, 0, 0, 0) url("imagini/header-oferta.jpg") no-repeat scroll 77% 50% / cover ;}
+/*.min{min-height: 13em;}*/
+.badge_4g {left: 3%;top: -1%;width: 70px;}
+.title{min-height: 1.1em;}
+.title-m{min-height: 5.5em!important;}
+.title-s{min-height: 5em!important;}
+.marg-right{margin-right: 10px;}
+.min-sm{min-height: 3em!important;}
+.min-s{min-height: 5em!important;}
+.marg{margin-top:31px;}
+.height{margin-bottom:40px!important; }
+.buy-action{padding-top: 40px;}
+.caseta-telefon {text-align: center;margin-bottom: 60px;}
+.circle {position: absolute;right: 10px;top: 91px!important;  left:-19px!important; }
+.circle-onl {position: absolute;right: 10px;top: 154px!important;  left:-21px!important; }
+.badge_4g-s {left: 0%!important;padding: 5px;position: absolute;top: 14%!important;width: 70px;}
+.buy_acction{margin-top:20px;}
+.min-h{min-height:2.2em;}
+.hp_bottom_icons {
+	min-height: 87px;
+}
+}
+
+@media (min-width : 360px) and (max-width: 478px) {
+.cover-full-m {background: rgba(0, 0, 0, 0) url("imagini/header-oferta.jpg") no-repeat scroll 75% 50% / cover ;}
+.badge_4g {left: 3%;top: -2%; width: 60px;}
+.deCeOnline{padding: 20px;}
+.title{min-height: 1.1em!important;}
+.title-s{min-height: 3.3em!important;}
+.min-s{min-height: 3.3em!important;}
+.min-sm{min-height: 3em!important;}
+.height{margin-bottom:45px!important; }
+.circle-onl {position: absolute;right: 10px;top: 154px!important;  left:-21px!important; }
+.circle {position: absolute;right: 10px;top: 91px!important;  left:-16px!important; }
+.badge_4g-s {left: 2%!important;padding: 5px;position: absolute;top: 14%!important;width: 65px;}
+.buy_acction{margin-top:20px;}
+.caseta-telefon {text-align: center;margin-bottom: 60px;}
+}
+
+@media (min-width : 480px) and (max-width: 767px) {
+.img-pos {position: absolute;right: 10px;top: 23px!important;}
+.cover-full-m {background: rgba(0, 0, 0, 0) url("imagini/header-oferta.jpg") no-repeat scroll 75% 50% / cover ;}
+.circle {position: absolute;right: 10px;top: 91px!important;  left:-1px!important; }
+.min_beneficii { min-height: 105px;}
+.title-s{min-height: 2.5em!important;}
+.badge_4g-s {left: 0%!important;padding: 5px;position: absolute;top: 14%!important;width: 70px;}
+.buy_acction{margin-top:20px;}
+.badge_4g {left: 3%;top: 6%; width: 60px;}
+}
+
+/* Small Devices, Tablets */
+@media (min-width : 768px) and (max-width: 991px) {
+.cover-full-m {background: rgba(0, 0, 0, 0) url("imagini/header-oferta.jpg") no-repeat scroll 70% 50% / cover    ;}
+.img-pos {position: absolute;right: 10px;top: 23px!important;}
+.height{margin-bottom:40px!important; }
+.title-m{min-height: 4.4em!important;}
+.min-s{min-height: 1.1em!important;}
+.min-sm{min-height: 3em!important;}
+.circle {position: absolute;right: 10px;top: 91px!important;  left:-1px!important; }
+.circle-onl {position: absolute;right: 10px;top: 154px!important;  left:-21px!important; }
+.badge_4g-s {left: 0%!important;padding: 5px;position: absolute;top: 14%!important;width: 70px;}
+.buy_acction{margin-top:20px;}
+.caseta-telefon {text-align: center;margin-bottom: 60px;}
+.min-h{min-height:2.2em;}
+}
+
+/* Medium Devices, Desktops */
+@media (min-width : 992px) and (max-width: 1199px) {  
+.img-pos {position: absolute;right: 10px;top: 20px!important;width:45%;}
+.cover-full-m {background: rgba(0, 0, 0, 0) url("imagini/header-oferta.jpg") no-repeat scroll 65% 50% / cover ;}
+.circle {position: absolute;right: 10px;top: 91px!important;  left:-21px!important; }
+.circle-onl {position: absolute;right: 10px;top: 154px!important;  left:-21px!important; }
+.title_fix_height { min-height: 39px; }
+.badge_4g-s {left: 0%!important;padding: 5px;position: absolute;top: 14%!important;width: 70px;}
+.buy_acction{margin-top:20px;}
+.caseta-telefon {text-align: center;margin-bottom: 60px;}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) { 
+.img-pos {position: absolute;right: 10px;top: 0px!important;width:39%;}
+.badge_4g {left: 0%!important;padding: 5px;position: absolute;top: -1%!important;width: 70px;}
+.badge_4g-s {left: 0%!important;padding: 5px;position: absolute;top: 14%!important;width: 70px;}
+.marg{margin-top: 40px;}
+.title-s{min-height: 2.2em;}
+.min-s{min-height: 2.2em;}
+.circle {position: absolute;right: 10px;top:86px!important;  left:-26px!important; }
+.circle-onl {position: absolute;right: 10px;top: 160px!important;  left:-26px!important; }
+.buy-action{padding-top: 84px;}
+.cover-full-m {background: rgba(0, 0, 0, 0) url("imagini/header-oferta.jpg") no-repeat scroll 52% 50% / cover    ;}
+.min_beneficii { min-height: 63px;}
+.buy_acction{margin-top:20px;}
+}

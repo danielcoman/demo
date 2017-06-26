@@ -1,0 +1,63 @@
+@media (max-width: 479px) {
+
+}
+@media (min-width: 480px) and (max-width: 767px) {
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+@media (min-width: 1200px) {
+
+}
+
+.fix_overlay {
+  width: 100% !important;
+  height: 100% !important;
+  position: fixed !important;
+  top:0px !important;
+  padding-top: 100px !important;
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  overflow-x: hidden;
+}
+.fix_overlay .boxsrc {
+  margin: 10px 0px !important;
+  padding: 100px 0 100px 0 !important;
+}
+.search_results {
+  color: #fff;
+}
+
+.btn-important {
+    background: #ff7900 none repeat scroll 0 0;
+    border: 2px solid #ff7900;
+    color: #fff;
+}
+
+
+.result_box {
+
+}
+.result_box h4, .result_box p  {
+  margin-bottom: 0px !important;
+}
+.result_box h4, .result_box h4 a {
+  color: #ff7900;  
+}
+.result_box a {
+  color: #999;
+}
+.result_box a:hover {
+  text-decoration: underline !important;
+}
+.result_box h4 a:hover {
+  text-decoration: none !important;
+}
+
+.close-sml {
+  font-size: 18px !important;
+  font-weight: normal !important;
+}
